@@ -1,0 +1,4 @@
+interface:
+  display_name: "子平八字"
+  short_description: "以五部子平典籍为核心，优先核验真太阳时，分层解读命盘与大运流年"
+  default_prompt: "请使用 $ziping-bazi，优先校正真太阳时，以五部核心典籍和可核验理法分层分析我的八字，注明时辰风险、依据和流派争议。"
